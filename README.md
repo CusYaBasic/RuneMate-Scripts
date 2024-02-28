@@ -21,4 +21,9 @@ Once noticing it was made using java I couldn't resist giving it a try and see h
 
 ![image](https://github.com/CusYaBasic/RuneMate-Scripts/assets/86253238/204e729a-59c6-4ef6-b12e-b77128da8023)
 
+#### Final Stats before ban:
 ![image](https://github.com/CusYaBasic/RuneMate-Scripts/assets/86253238/85645ba1-d65f-492a-a81b-0bf04ed5e37a)
+
+---
+
+# Once again, please don't cheat or bot; this was purely for educational purposes
