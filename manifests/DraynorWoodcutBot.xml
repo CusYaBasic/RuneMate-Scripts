@@ -1,0 +1,22 @@
+<manifest>
+    <main-class>com.DefiledOne.scripts.Woodcutting.DraynorWoodcutBot</main-class>
+    <name>Draynor Woodcutting Bot</name>
+    <description>Chops trees,oaks or willows at draynor</description>
+    <version>1.0.0</version>
+    <compatibility>
+        <game>OSRS</game>
+    </compatibility>
+    <categories>
+        <category>WOODCUTTING</category>
+    </categories>
+    <access>private</access>
+    <open-source>false</open-source>
+    <internal-id>dwbprivate</internal-id>
+    <tags>
+        <tag>woodcuting</tag>
+    </tags>
+    <tag-line>Draynor tree cutting!</tag-line>
+    <resources>
+        <resource>com/DefiledOne/scripts/EmbeddedUI/DraynorWoodcutUI.fxml</resource>
+    </resources>
+</manifest>

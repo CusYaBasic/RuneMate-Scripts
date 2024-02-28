@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Text?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            prefHeight="400.0" prefWidth="600.0">
+
+
+    <children>
+        <Text layoutY="20" layoutX="20" text="Draynor Tree Bot:" style="-fx-font-size: 20"/>
+        <Text layoutY="40" layoutX="25" text="Start in draynor bank with any axe equipped and a empty inventory"/>
+        <ComboBox fx:id="tree" layoutY="60" layoutX="25" promptText="Select a tree.."/>
+        <Button fx:id="startstopbutton" layoutY="100" layoutX="25" text="Start" style="-fx-background-color: #08c42e;" onAction="#toggleActive"/>
+        <Text layoutY="150" layoutX="25" text="Status:" />
+        <Text fx:id="statusText" layoutY="150" layoutX="110" text="Waiting to start.." />
+        <Text layoutY="165" layoutX="25" text="Tree:" />
+        <Text fx:id="treeText" layoutY="165" layoutX="110" text="None" />
+        <Text layoutY="180" layoutX="25" text="Runtime:" />
+        <Text fx:id="timeText" layoutY="180" layoutX="110" text="N/A" />
+    </children>
+</AnchorPane>

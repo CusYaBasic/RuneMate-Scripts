@@ -1,0 +1,21 @@
+<manifest>
+    <main-class>com.DefiledOne.scripts.Thieving.ManPickpocket</main-class>
+    <name>Man Pickpocket</name>
+    <description>Kills bear at varrock</description>
+    <version>1.0.0</version>
+    <compatibility>
+        <game>OSRS</game>
+    </compatibility>
+    <categories>
+        <category>COMBAT</category>
+    </categories>
+    <access>private</access>
+    <open-source>false</open-source>
+    <internal-id>vgbbprivate</internal-id>
+    <tags>
+        <tag>combat</tag>
+        <tag>magic</tag>
+        <tag>range</tag>
+    </tags>
+    <tag-line>Varrock grizzley bear killing!</tag-line>
+</manifest>
