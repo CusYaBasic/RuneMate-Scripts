@@ -1,5 +1,5 @@
 # RuneMate Bot Srcipts (OSRS)
-Scripts I made using the RuneMate Botting API; After seeing alot of [Sir Puggers]() anti-botting videos exposing all the bots and bot farms in OSRS it got me curious on how they worked. So I took a little look into it and came across RuneMate.  
+Scripts I made using the RuneMate Botting API; After seeing alot of [Sir Puggers](https://www.youtube.com/watch?v=Ceki4Ozpra4) anti-botting videos exposing all the bots and bot farms in OSRS it got me curious on how they worked. So I took a little look into it and came across RuneMate.  
 Once noticing it was made using java I couldn't resist giving it a try and see how long I could get and account to live and not get banned. (It got banned after 3 weeks; last week I was botting for 10+ hours a day)
 
 ---
